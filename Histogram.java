@@ -1,6 +1,6 @@
 package pololetni_prace;
 
-public class CetnostCisel {
+public class Histogram {
     public static void main(String[] args) {
         Zaznam[] cetnosti = new Zaznam[500];
         int pocet = 0;        
